@@ -1,0 +1,8 @@
+Você está editando um arquivo de sistema e recebendo um erro de permissão? 
+Se você receber a mensagem "Acesso negado", provavelmente precisará de permissões de superusuário. 
+Feche o arquivo (Ctrl + X), escolha Não quando ele perguntar se você deseja salvar e reabri-lo 
+com sudo nano /ruta/del/archivo. Se você não quiser perder suas alterações atuais, você pode 
+salvar uma cópia em sua pasta pessoal e movê-la com 
+
+
+Ahhh vsf. Vou escrever pela 3º vez para perder tudo. Vai ficar só uma linha escrita por mim.  
